@@ -1,0 +1,28 @@
+div.thumbnail > p {
+  font-size: 18px;
+  font-weight: bold;
+  text-align: center !important;
+  align-content: center !important;
+  color: brown !important;
+}
+
+/*Magin sure all the thumbnails have the same size*/
+div.thumbnail {
+  background-color: #f9a981;
+  border-radius: 10px;
+  height: 250px;
+  width: 100%;
+}
+
+/*Making sure all the images have the same size*/
+img {
+  border-radius: 9px;
+  height: 200px !important;
+  width: 200px !important;
+}
+
+/*Removes unwanted extra margins and paddings*/
+div.row.desserts {
+  margin: 0px 0px;
+  padding: 0px 0px;
+}

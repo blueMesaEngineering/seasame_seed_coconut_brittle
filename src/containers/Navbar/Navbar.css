@@ -1,0 +1,11 @@
+nav,
+.navbar-brand {
+  background-color: brown !important;
+  font-family: sans-serif;
+  font-size: 24px;
+}
+
+li,
+a {
+  color: white !important;
+}
